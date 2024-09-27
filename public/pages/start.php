@@ -61,7 +61,7 @@
 
                 <div class="row">
                     <p class="square-action">
-                        <a href="/forum/<?php echo $lang; ?>" class="button" style="text-align: center">Forum Bits&Bäume</a>
+                        <a href="/konferenzankuendigung/<?php echo $lang; ?>" class="button" style="text-align: center">Konferenz Bits&Bäume22</a>
                     </p>
                     <p class="square-action">
                         <a href="/waechst/<?php echo $lang; ?>" class="button">eigene B&B organisieren</a>
@@ -71,6 +71,9 @@
               <div class="row">
                 <p class="square-action">
                     <a href="/regionalzweige/<?php echo $lang; ?>" class="button">regionale Zweige</a>
+                </p>
+                <p class="square-action">
+                    <a href="/forum/<?php echo $lang; ?>" class="button" style="text-align: center">Forum Bits&Bäume</a>
                 </p>
               </div>
 
